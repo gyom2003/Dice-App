@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79098376241",
+    "project_id": "dice-game-f15b9",
+    "storage_bucket": "dice-game-f15b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79098376241:android:fe4b7933803fd538f62510",
+        "android_client_info": {
+          "package_name": "com.example.fapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79098376241-bstnfs4rpl4idm9e7935sl639tnlffoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwgurFCUMBseIxWbQ05HCXWyr0TUPehxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79098376241-bstnfs4rpl4idm9e7935sl639tnlffoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
